@@ -1,0 +1,24 @@
+[
+    {
+	"title":"しばゆー",
+	"geometry" : {
+	    "location": {
+		"lat": 34.955521,
+		"lng": 137.194074
+	    }
+	},
+	"image": "https://okazaki-kanko.jp/image/rendering/feature_paragraph_image/6429/trim.1024/3/2",
+	"desc": "岡崎市東公園入り口から園内施設Animoに向かう道にあります。"
+    },
+    {
+	"title":"としみつ",
+	"geometry" : {
+	    "location": {
+		"lat": 34.91392,
+		"lng": 137.217016
+	    }
+	},
+	"image": "https://okazaki-kanko.jp/image/rendering/feature_paragraph_image/6431/trim.1024/3/2",
+	"desc": "道の駅「藤川宿」施設裏側の歩道上に設置されています。"
+    }
+]
