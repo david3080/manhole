@@ -1,0 +1,65 @@
+[
+    {
+	"title":"オンエアバード",
+	"location": {
+	    "lat": 34.915941,
+	    "lng": 137.1640762
+	},
+	"image": "https://okazaki-kanko.jp/image/rendering/course_spot_image/2041/trim/3/2",
+	"desc": "岡崎市南公園サイクルモノレール乗り場にあります。"
+    },
+    {
+	"title":"しばゆー",
+	"location": {
+	    "lat": 34.955521,
+	    "lng": 137.194074
+	},
+	"image": "https://okazaki-kanko.jp/image/rendering/feature_paragraph_image/6429/trim.1024/3/2",
+	"desc": "岡崎市東公園入り口から園内施設Animoに向かう道にあります。"
+    },
+    {
+	"title":"としみつ",
+	"location": {
+	    "lat": 34.91392,
+	    "lng": 137.217016
+	},
+	"image": "https://okazaki-kanko.jp/image/rendering/feature_paragraph_image/6431/trim.1024/3/2",
+	"desc": "道の駅「藤川宿」施設裏側の歩道上に設置されています。"
+    },
+    {
+	"title":"てつや",
+	"location": {
+	    "lat": 34.952937,	
+	    "lng": 137.168602
+	},
+	"image": "https://okazaki-kanko.jp/image/rendering/feature_paragraph_image/6428/trim.1024/3/2",
+	"desc": "OTO RIVERSIDE TERRACE（オトリバーサイドテラス）から乙川の方に向かうすぐのところにあります。"
+    },
+    {
+	"title":"りょう",
+	"location": {
+	    "lat": 34.980779,
+	    "lng": 137.188681
+	},
+	"image": "https://okazaki-kanko.jp/image/rendering/feature_paragraph_image/6430/trim.1024/3/2",
+	"desc": "龍北総合運動場の駐車場から陸上競技場を目指して歩いたところにあります。"
+    },
+    {
+	"title":"虫眼鏡",
+	"location": {
+	    "lat": 34.9251524,
+	    "lng": 137.1583401
+	},
+	"image": "https://okazaki-kanko.jp/image/rendering/feature_paragraph_image/6433/trim.1024/3/2",
+	"desc": "JR岡崎駅の改札を出て、東口の出口側の出会いの杜公園にあります。"
+    },
+    {
+	"title":"ゆめまる",
+	"location": {
+	    "lat": 34.9582062,
+	    "lng": 137.1672145
+	},
+	"image": "https://okazaki-kanko.jp/image/rendering/feature_paragraph_image/6432/trim.1024/3/2",
+	"desc": "籠田公園から乙川方面にある桜城橋の方に道路を渡ってすぐのウォーキングスペース内に設置されています"
+    }
+]
